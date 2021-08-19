@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/at/wikidata/external_data/wdt_query_status_test.json
+data/at/wikidata/external_data/wdt_query_status_train.json

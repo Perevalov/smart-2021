@@ -1,0 +1,4973 @@
+[
+    {
+        "uid": "3293",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1136",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "987",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "193",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3057",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3246",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "768",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4702",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3090",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3495",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3215",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "428",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4448",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2332",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2717",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2079",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3389",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "722",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "951",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3212",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1759",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4579",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "326",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2608",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1383",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1724",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "341",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Magazine",
+            "http://dbpedia.org/ontology/PeriodicalLiterature",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3701",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "147",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "688",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3432",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1107",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "848",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4727",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3953",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryConflict",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "661",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryPerson",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1002",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "62",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1879",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3572",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4857",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1203",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/River",
+            "http://dbpedia.org/ontology/Stream",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "24",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4852",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4102",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "762",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "875",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4742",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2687",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3600",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Award"
+        ]
+    },
+    {
+        "uid": "2394",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4980",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "385",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3877",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4569",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Legislature",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4665",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3737",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4728",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3208",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3016",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3502",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2708",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4021",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2872",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3030",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1645",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3417",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3476",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Astronaut",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2861",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AnatomicalStructure"
+        ]
+    },
+    {
+        "uid": "1792",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3797",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3533",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3449",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "603",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryPerson",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3056",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4531",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sea",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "126",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2935",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3531",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "827",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1639",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Politician",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4971",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2188",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4612",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2443",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2349",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "345",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "814",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3205",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/EthnicGroup"
+        ]
+    },
+    {
+        "uid": "4795",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3325",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2116",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1834",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "793",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sport",
+            "http://dbpedia.org/ontology/Activity"
+        ]
+    },
+    {
+        "uid": "2674",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3756",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2891",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4149",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sea",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4432",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1857",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2645",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "950",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Automobile",
+            "http://dbpedia.org/ontology/MeanOfTransportation"
+        ]
+    },
+    {
+        "uid": "3068",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Royalty",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2597",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "419",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Plant",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "1254",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "477",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2035",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1202",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2626",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HorseRace",
+            "http://dbpedia.org/ontology/Race",
+            "http://dbpedia.org/ontology/SportsEvent",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "1970",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3110",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4018",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3687",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryPerson",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4033",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3054",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2192",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2712",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "992",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2190",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3762",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3597",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1065",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4960",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2621",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "77",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1314",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4372",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2965",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2560",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4896",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/ComicsCreator",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2635",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sport",
+            "http://dbpedia.org/ontology/Activity"
+        ]
+    },
+    {
+        "uid": "3530",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "375",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4332",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4379",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4027",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryUnit",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1118",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3677",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4864",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2958",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4955",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2376",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1619",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3713",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2060",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "260",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4417",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2039",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "901",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2026",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1917",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1828",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1573",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Currency"
+        ]
+    },
+    {
+        "uid": "4208",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Saint",
+            "http://dbpedia.org/ontology/Cleric",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "224",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "723",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Continent",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4485",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1141",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2762",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "846",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryConflict",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "2551",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "117",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "919",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2595",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2590",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3735",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2397",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3517",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2563",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryConflict",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "4828",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2324",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2709",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4398",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1312",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerClub",
+            "http://dbpedia.org/ontology/SportsClub",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3812",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4655",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1761",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2739",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4844",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerManager",
+            "http://dbpedia.org/ontology/SportsManager",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2472",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1493",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2158",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1169",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "232",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "66",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1603",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Airline",
+            "http://dbpedia.org/ontology/PublicTransitSystem",
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3596",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "125",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1296",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AmericanFootballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1976",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4517",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4481",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2075",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3086",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/EthnicGroup"
+        ]
+    },
+    {
+        "uid": "918",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1646",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryPerson",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4123",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "525",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "55",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FormulaOneRacer",
+            "http://dbpedia.org/ontology/RacingDriver",
+            "http://dbpedia.org/ontology/MotorsportRacer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "638",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2766",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/RecordLabel",
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3644",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PersonFunction"
+        ]
+    },
+    {
+        "uid": "2878",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2286",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2261",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1753",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1968",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4351",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2393",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "523",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3122",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4156",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1969",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "671",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Mammal",
+            "http://dbpedia.org/ontology/Animal",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "666",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4338",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3266",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "899",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4850",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "760",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1906",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4042",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4138",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3818",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2832",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "137",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2128",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3177",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1331",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2017",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1358",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2150",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2122",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3981",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3374",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2814",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1848",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "388",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1984",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Bank",
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4363",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3962",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "770",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2165",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "673",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "249",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1574",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3419",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2081",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1823",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "716",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4668",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2048",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4178",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerTournament",
+            "http://dbpedia.org/ontology/Tournament",
+            "http://dbpedia.org/ontology/SportsEvent",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "4521",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1460",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1668",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2756",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2000",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4535",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2152",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4158",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "223",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2193",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3136",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1824",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2871",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "9",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1944",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Bird",
+            "http://dbpedia.org/ontology/Animal",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "1838",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FormulaOneRacer",
+            "http://dbpedia.org/ontology/RacingDriver",
+            "http://dbpedia.org/ontology/MotorsportRacer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "255",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4508",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1581",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2956",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4429",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2508",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4136",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2745",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4498",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2783",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "470",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2703",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3584",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4486",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1256",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3512",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Colour"
+        ]
+    },
+    {
+        "uid": "1250",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4175",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1852",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "133",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionStation",
+            "http://dbpedia.org/ontology/Broadcaster",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "928",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4543",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1214",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Bacteria",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "504",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1958",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1384",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "894",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "455",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryConflict",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "4879",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3709",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4618",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4186",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2214",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2923",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Book",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3486",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AmericanFootballPlayer",
+            "http://dbpedia.org/ontology/GridironFootballPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3141",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Automobile",
+            "http://dbpedia.org/ontology/MeanOfTransportation"
+        ]
+    },
+    {
+        "uid": "1324",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4312",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "510",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "499",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3719",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2386",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1540",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1217",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2993",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1542",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3301",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FormulaOneRacer",
+            "http://dbpedia.org/ontology/RacingDriver",
+            "http://dbpedia.org/ontology/MotorsportRacer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2539",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4330",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Magazine",
+            "http://dbpedia.org/ontology/PeriodicalLiterature",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "732",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Automobile",
+            "http://dbpedia.org/ontology/MeanOfTransportation"
+        ]
+    },
+    {
+        "uid": "1156",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3294",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Politician",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2982",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2156",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2616",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1167",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3636",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4491",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryUnit",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "143",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3577",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2782",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1819",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4171",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "395",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4836",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1365",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4558",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2914",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2326",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3766",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicGenre",
+            "http://dbpedia.org/ontology/Genre",
+            "http://dbpedia.org/ontology/TopicalConcept"
+        ]
+    },
+    {
+        "uid": "3851",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4591",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2967",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3465",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2808",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3348",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sea",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "412",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Newspaper",
+            "http://dbpedia.org/ontology/PeriodicalLiterature",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3146",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1516",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3267",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3974",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "616",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "114",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "417",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1625",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4185",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/ComicsCreator",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2896",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4671",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2546",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3373",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4107",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2444",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4380",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1066",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TennisPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3498",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2738",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4000",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2427",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4639",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1687",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "851",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Book",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3546",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "895",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/River",
+            "http://dbpedia.org/ontology/Stream",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4592",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2839",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3087",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1348",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BasketballPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2816",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3730",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HorseRace",
+            "http://dbpedia.org/ontology/Race",
+            "http://dbpedia.org/ontology/SportsEvent",
+            "http://dbpedia.org/ontology/SocietalEvent",
+            "http://dbpedia.org/ontology/Event"
+        ]
+    },
+    {
+        "uid": "3251",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4634",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2070",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Mammal",
+            "http://dbpedia.org/ontology/Animal",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "4452",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2479",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2265",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "2959",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Currency"
+        ]
+    },
+    {
+        "uid": "4731",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Mammal",
+            "http://dbpedia.org/ontology/Animal",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "3059",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4045",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2744",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PersonFunction"
+        ]
+    },
+    {
+        "uid": "3506",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4249",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Award"
+        ]
+    },
+    {
+        "uid": "3147",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2294",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Gymnast",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "580",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Bank",
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1470",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4070",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3343",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4583",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3672",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "559",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1081",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1664",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1012",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Magazine",
+            "http://dbpedia.org/ontology/PeriodicalLiterature",
+            "http://dbpedia.org/ontology/WrittenWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1931",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FormulaOneRacer",
+            "http://dbpedia.org/ontology/RacingDriver",
+            "http://dbpedia.org/ontology/MotorsportRacer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1150",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2838",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "740",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3675",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/SoccerPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "830",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "119",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "635",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4465",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4364",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4142",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Disease"
+        ]
+    },
+    {
+        "uid": "991",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Insect",
+            "http://dbpedia.org/ontology/Animal",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "2660",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryUnit",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2491",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Currency"
+        ]
+    },
+    {
+        "uid": "3854",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1715",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AmericanFootballPlayer",
+            "http://dbpedia.org/ontology/GridironFootballPlayer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1148",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "574",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4146",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "853",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Continent",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2774",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1166",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2368",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4115",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4131",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2950",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2455",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4341",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3175",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "784",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4057",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1409",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1686",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HockeyTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4949",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3863",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Album",
+            "http://dbpedia.org/ontology/MusicalWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1816",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "127",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3327",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AmericanFootballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2975",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#date"
+        ]
+    },
+    {
+        "uid": "2300",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "190",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "699",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4780",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "606",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Plant",
+            "http://dbpedia.org/ontology/Eukaryote",
+            "http://dbpedia.org/ontology/Species"
+        ]
+    },
+    {
+        "uid": "4276",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3420",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4820",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1060",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2565",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4994",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1069",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2524",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicGenre",
+            "http://dbpedia.org/ontology/Genre",
+            "http://dbpedia.org/ontology/TopicalConcept"
+        ]
+    },
+    {
+        "uid": "2205",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1243",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "16",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3120",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3067",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4784",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "225",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Band",
+            "http://dbpedia.org/ontology/Group",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "562",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AutomobileEngine",
+            "http://dbpedia.org/ontology/Engine",
+            "http://dbpedia.org/ontology/Device"
+        ]
+    },
+    {
+        "uid": "1045",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3446",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Language"
+        ]
+    },
+    {
+        "uid": "4565",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4985",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4903",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4823",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1218",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3987",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "160",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "956",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3791",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HockeyTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3234",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2869",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicGenre",
+            "http://dbpedia.org/ontology/Genre",
+            "http://dbpedia.org/ontology/TopicalConcept"
+        ]
+    },
+    {
+        "uid": "4433",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3183",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Album",
+            "http://dbpedia.org/ontology/MusicalWork",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3923",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4199",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1445",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HockeyTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3991",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1696",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3191",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4499",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2255",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1682",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3170",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryPerson",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4090",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3723",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2049",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "262",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Politician",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3369",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4061",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4992",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2385",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1959",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2976",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Royalty",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "488",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1843",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2911",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1986",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1369",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "2811",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "659",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1794",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2511",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Saint",
+            "http://dbpedia.org/ontology/Cleric",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1147",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3272",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "608",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3582",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "197",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Writer",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2327",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "766",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "4496",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4218",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3255",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1733",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2777",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "854",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4737",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Country",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "698",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4947",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "2999",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3696",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1636",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "3457",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4659",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/River",
+            "http://dbpedia.org/ontology/Stream",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1853",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3763",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3304",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4912",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3445",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1998",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "663",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3748",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4413",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Scientist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4744",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "709",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1282",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2675",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4029",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2237",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3302",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/FormulaOneRacer",
+            "http://dbpedia.org/ontology/RacingDriver",
+            "http://dbpedia.org/ontology/MotorsportRacer",
+            "http://dbpedia.org/ontology/Athlete",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4934",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2729",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Racecourse",
+            "http://dbpedia.org/ontology/RaceTrack",
+            "http://dbpedia.org/ontology/SportFacility",
+            "http://dbpedia.org/ontology/ArchitecturalStructure",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3314",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Film",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "1059",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/VideoGame",
+            "http://dbpedia.org/ontology/Software",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "4636",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3242",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "1678",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/BaseballTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1757",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/AdministrativeRegion",
+            "http://dbpedia.org/ontology/Region",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "4191",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "563",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MilitaryUnit",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1028",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3840",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Building",
+            "http://dbpedia.org/ontology/ArchitecturalStructure",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1570",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "2773",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Tenure",
+            "http://dbpedia.org/ontology/TimePeriod"
+        ]
+    },
+    {
+        "uid": "2731",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicalArtist",
+            "http://dbpedia.org/ontology/Artist",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3104",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "200",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "3099",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/HockeyTeam",
+            "http://dbpedia.org/ontology/SportsTeam",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4474",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4514",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "391",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "2695",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Airline",
+            "http://dbpedia.org/ontology/PublicTransitSystem",
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3884",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "492",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "379",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4859",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3993",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/PoliticalParty",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "878",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionShow",
+            "http://dbpedia.org/ontology/Work"
+        ]
+    },
+    {
+        "uid": "337",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Company",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "1016",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/River",
+            "http://dbpedia.org/ontology/Stream",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "3798",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/MusicGenre",
+            "http://dbpedia.org/ontology/Genre",
+            "http://dbpedia.org/ontology/TopicalConcept"
+        ]
+    },
+    {
+        "uid": "4551",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3342",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "995",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "1981",
+        "category": "literal",
+        "type": [
+            "http://www.w3.org/2001/XMLSchema#integer"
+        ]
+    },
+    {
+        "uid": "4798",
+        "category": "boolean",
+        "type": [
+            "boolean"
+        ]
+    },
+    {
+        "uid": "3843",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3461",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/Sea",
+            "http://dbpedia.org/ontology/BodyOfWater",
+            "http://dbpedia.org/ontology/NaturalPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "1585",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "3152",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/ComicsCharacter",
+            "http://dbpedia.org/ontology/FictionalCharacter",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "34",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/TelevisionStation",
+            "http://dbpedia.org/ontology/Broadcaster",
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    },
+    {
+        "uid": "4014",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/City",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Place"
+        ]
+    },
+    {
+        "uid": "775",
+        "category": "resource",
+        "type": [
+            "http://dbpedia.org/ontology/OfficeHolder",
+            "http://dbpedia.org/ontology/Person",
+            "http://dbpedia.org/ontology/Agent"
+        ]
+    }
+]
